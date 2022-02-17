@@ -1,0 +1,22 @@
+.carousel-caption1{
+    position: relative;
+    right: 15%;
+    bottom: 250px;
+    left: 50%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    line-height:0.5px;
+    text-align: center;
+  }
+  .carousel-caption2{
+    position: relative;
+    right: 15%;
+    bottom: 210px;
+    left: 40%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    line-height:0.5px;
+    text-align: center;
+  }
+  
+  
